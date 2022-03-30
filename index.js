@@ -9,7 +9,7 @@ require('./services/passport');
 mongoose.connect(keys.mongoURI);
 
 const app = express();
-// build three middle wares to preprocess the incoming request before sent off to route handlers
+// build three middlewares to preprocess the incoming request before sent off to route handlers
 app.use(
     cookieSession({
         maxAge: 30 * 24 * 60 * 60 * 1000,
