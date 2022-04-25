@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import SurveyList from './surveys/SurveyList';
 
+// Dashboard is a dashboard for emails.
 const Dashboard = () => {
   return (
     <div>
