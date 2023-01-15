@@ -1,5 +1,16 @@
 # Emaily: Feedback Collection Application
 
+<!-- PROJECT SHIELDS -->
+<!--
+***  https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -59,13 +70,25 @@ Project Link: [https://github.com/jhan125/emaily-app](https://github.com/jhan125
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jhan125/emaily-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jhan125/emaily-app.svg?style=for-the-badge
+[forks-url]: https://github.com/jhan125/emaily-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/jhan125/emaily-app.svg?style=for-the-badge
+[stars-url]: https://github.com/jhan125/emaily-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jhan125/emaily-app.svg?style=for-the-badge
+[issues-url]: https://github.com/jhan125/emaily-app/issues
+[license-shield]: https://img.shields.io/github/license/jhan125/emaily-app.svg?style=for-the-badge
+[license-url]: https://github.com/jhan125/emaily-app/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jiali-creative/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Node.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png
+[Node.js]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJS-url]: https://nodejs.org/
-[Redux.js]: https://redux.js.org/img/redux-logo-landscape.png
+[Redux.js]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
-[Express]: https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2
+[Express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
-[MongoDB]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
