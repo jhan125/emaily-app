@@ -30,11 +30,11 @@ get tabulation of results, and make their app/service better with feedback!
 
 ### Built With
 
-* [![React][Reactjs.org]][React-url]
-* [![NodeJS][Nodejs.org]][NodeJS-url]
-* [![Redux][Redux.js.org]][Redux-url]
-* [![Express][expressjs.com]][Express-url]
-* [![MongoDB][mongodb.com]][MongoDB-url]
+* [![React][React.js]][React-url]
+* [![NodeJS][Node.js]][NodeJS-url]
+* [![Redux][Redux.js]][Redux-url]
+* [![Express][Express]][Express-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
