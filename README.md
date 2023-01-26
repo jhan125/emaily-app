@@ -31,9 +31,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an app that helps startup owners get feedback from their customers.
+This is an app that helps startup owners get feedback from their massive customers.
 With the use of this app, startup owners can set bunch of customers an email requesting feedback, 
 get tabulation of results, and make their app/service better with feedback!
+
+
+This project can achieve a lot of things:
+- connect a front-end Create-React-App server to a NodeJS and Express backend;
+- communicate data from Mongo database to the React application;
+- route user requests on the front end with React Router and on the backend with Express;
+- build reusable user inputs with Redux Form, then complete with navigation;
+- handle credit cards and receive payments from users with Stripe;
+- engage users with automated emails;
+- enhance authentication flows in the app with Google OAuth authentication;
+- separate production and development resources with advanced API key handling techniques;
+- educate users on how to use the app with custom build landing pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
